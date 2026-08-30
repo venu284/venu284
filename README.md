@@ -1,6 +1,6 @@
 <img src="banner.svg" alt="venu vemuru" width="968">
 
-I'm a Software Developer, currently focused in LLM Routing, Inference Benchmarking and Product Design
+I'm a Software Developer, currently interested in LLM Routing, Inference Benchmarking and Product Design
 
 ## What I am working on
 
@@ -45,9 +45,3 @@ I'm a Software Developer, currently focused in LLM Routing, Inference Benchmarki
 **AI tools**
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
-
-## Projects
-
-**[LLM_Comparison](https://github.com/venu284/LLM_Comparison)** &nbsp;·&nbsp; Python, PostgreSQL, Docker
-
-**[llm-inference-benchmark](https://github.com/venu284/llm-inference-benchmark)** &nbsp;·&nbsp; PyTorch, TensorRT, CUDA

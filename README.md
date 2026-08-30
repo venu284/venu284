@@ -1,6 +1,6 @@
 <img src="banner.svg" alt="venu vemuru" width="968">
 
-MS Computer Science, University of Georgia.
+I'm a Software Developer, currently focused in LLM Routing, Inference Benchmarking and Product Design
 
 ## What I am working on
 
@@ -15,7 +15,6 @@ MS Computer Science, University of Georgia.
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 

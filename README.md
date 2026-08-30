@@ -1,10 +1,10 @@
 # Venu Dattathreya Vemuru
 
-MS Computer Science, University of Georgia. Graduating December 2026.
+MS Computer Science, University of Georgia.
 
 ## What I am working on
 
-- Building scheduling automation for [SER-CAT](https://sercat.franklinresearch.uga.edu), a 20+ institution synchrotron consortium at Argonne National Laboratory's Advanced Photon Source. Sole developer, in production.
+- Building scheduling automation for [SER-CAT](https://sercat.franklinresearch.uga.edu), a 20+ institution synchrotron consortium at Argonne National Laboratory's Advanced Photon Source.
 - Researching LLM routing and inference benchmarking.
 
 ## Tools
@@ -51,14 +51,4 @@ MS Computer Science, University of Georgia. Graduating December 2026.
 
 **[LLM_Comparison](https://github.com/venu284/LLM_Comparison)** &nbsp;·&nbsp; Python, PostgreSQL, Docker
 
-65 hand-authored web development tasks, 5 open-weight models, scored on whether the generated code passes real tests in a container. Four hypotheses pre-registered before data collection. The routing hypothesis lost: a perfect oracle router capped at +8.6% against the +15% it needed.
-
 **[llm-inference-benchmark](https://github.com/venu284/llm-inference-benchmark)** &nbsp;·&nbsp; PyTorch, TensorRT, CUDA
-
-PyTorch Eager against torch.compile against TensorRT on one RTX 3090. Latency, throughput, GPU memory, compilation overhead. The question is when a TensorRT build step earns its keep over a one-line change.
-
-## Publications
-
-[Enhancing Image Deblurring Algorithm Selection and Performance Evaluation for CCTV](https://ieeexplore.ieee.org/document/10369555), IEEE, January 2024.
-
-Dimensionality Reduction Improves Genomic Prediction, co-author, under submission. 20 chromosome-wise autoencoders in PyTorch compressing 4,104 SNP markers to 640 dimensions, raising top-quartile hit rate by up to 30%.

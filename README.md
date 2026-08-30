@@ -5,7 +5,7 @@ I'm a Software Developer, currently focused in LLM Routing, Inference Benchmarki
 ## What I am working on
 
 - Building scheduling automation for [SER-CAT](https://sercat.franklinresearch.uga.edu), a 20+ institution synchrotron consortium at Argonne National Laboratory's Advanced Photon Source.
-- Researching LLM routing and inference benchmarking.
+- Researching LLM Routing and Inference Benchmarking.
 
 ## Tools
 
